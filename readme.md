@@ -1,6 +1,6 @@
 # CLASS DOCUMENTATION - GUIA ESTELAR JAVASCRIPT BY [ROCKETSEAT](https://github.com/rocketseat)
 
-[![github](/Javascript-stellar-guide/assets/img/github.png "Let's check Ana Cirilo's Github")](https://github.com/rednerdoficial)  [![linkedin](/Javascript-stellar-guide/assets/img/linkedin.png "Let's check Ana Cirilo' Linkedin")](https://linkedin.com/in/anapaulacirilo)
+[![github](./assets/img/github.png "Let's check Ana Cirilo's Github")](https://github.com/rednerdoficial)  [![linkedin](/./assets/img/linkedin.png "Let's check Ana Cirilo' Linkedin")](https://linkedin.com/in/anapaulacirilo)
 
 ----
 
