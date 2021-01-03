@@ -1,3 +1,5 @@
+// Os Exercicios serão em português
+
 // 1. Declare uma variável de nome weight
 
 let weight;
